@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kunal Kushwaha DSA Tracker
 
-## Getting Started
+A beautifully designed, production-ready Data Structures and Algorithms practice tracker. 
+Built entirely with Next.js App Router, Tailwind CSS, Shadcn UI (Custom), Zustand, and Framer Motion. 
 
-First, run the development server:
+This tracker uses the curriculum provided by Kunal Kushwaha, parsed directly from his open-source GitHub repository.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🚀 **100% Free**: No backend costs. Uses LocalStorage to persist progress.
+- 🎨 **Beautiful UI**: Modern SaaS-like aesthetic with smooth Framer Motion animations.
+- 🌓 **Dark & Light Mode**: Adapts dynamically based on system preferences.
+- 📱 **Mobile Optimized**: Full responsive design with mobile drawer navigation.
+- 📊 **Dashboard Analytics**: Track your completion percentage, solved count, and important queues.
+- 🔖 **Bookmarks & Revision**: Mark difficult problems for later review.
+- 💾 **Data Management**: Export and Import your JSON progress file anytime to move between devices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Framework**: [Next.js](https://nextjs.org/) (App Router, React 19)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) v4
+- **State Management**: [Zustand](https://zustand-demo.pmnd.rs/) with LocalStorage Persistence
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/)
 
-## Learn More
+## Deployment Guide (Vercel Free Tier)
 
-To learn more about Next.js, take a look at the following resources:
+This app is optimized for Vercel and costs absolutely nothing to run.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Create a GitHub repository and push this code.
+2. Go to [Vercel](https://vercel.com/) and Sign In.
+3. Click **Add New** -> **Project**.
+4. Import your GitHub repository.
+5. Vercel will automatically detect Next.js.
+6. Leave the Build Command and Install Command as default.
+7. Click **Deploy**.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+*Note: Since there is no database connected (only LocalStorage is used), you don't need any environment variables.*
 
-## Deploy on Vercel
+## Local Development
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+To run this app locally:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+3. Open `http://localhost:3000` in your browser.
+
+## Data Source
+The problems are automatically extracted from Kunal Kushwaha's [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) assignments.

@@ -1,0 +1,3665 @@
+{
+  "topics": [
+    {
+      "id": "topic_1",
+      "title": "Flow of Program",
+      "problems": [
+        {
+          "id": "prob_1",
+          "title": "Video Link",
+          "link": "https://youtu.be/lhELGQAV4gg",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        }
+      ]
+    },
+    {
+      "id": "topic_3",
+      "title": "Conditionals & Loops",
+      "problems": [
+        {
+          "id": "prob_2",
+          "title": "Subtract the Product and Sum of Digits of an Integer",
+          "link": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+          "difficulty": "Uncategorized",
+          "platform": "LeetCode"
+        }
+      ]
+    },
+    {
+      "id": "topic_4",
+      "title": "Functions",
+      "problems": [
+        {
+          "id": "prob_3",
+          "title": "Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.",
+          "link": "https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_4",
+          "title": "Define a program to find out whether a given number is even or odd.",
+          "link": "https://www.geeksforgeeks.org/java-program-to-check-if-a-given-integer-is-odd-or-even/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_5",
+          "title": "A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.",
+          "link": "https://www.efaculty.in/java-programs/voting-age-program-in-java/",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_6",
+          "title": "Write a program to print the sum of two numbers entered by user by defining your own method.",
+          "link": "https://code4coding.com/addition-of-two-numbers-in-java-using-method/",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_7",
+          "title": "Define a method that returns the product of two numbers entered by user.",
+          "link": "https://code4coding.com/java-program-to-multiply-two-numbers-using-method/",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_8",
+          "title": "Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.",
+          "link": "https://beginnersbook.com/2014/01/java-program-to-calculate-area-and-circumference-of-circle/",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_9",
+          "title": "Define a method to find out if a number is prime or not.",
+          "link": "https://www.geeksforgeeks.org/java-program-to-check-if-a-number-is-prime-or-not/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_10",
+          "title": "Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:",
+          "link": "https://www.techcrashcourse.com/2017/02/java-program-to-calculate-grade-of-students.html",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_11",
+          "title": "Write a program to print the factorial of a number by defining a method named 'Factorial'.",
+          "link": "https://www.javatpoint.com/factorial-program-in-java",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_12",
+          "title": "Write a function to find if a number is a palindrome or not. Take number as parameter.",
+          "link": "https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_13",
+          "title": "Write a function to check if a given triplet is a Pythagorean triplet or not.",
+          "link": "https://www.geeksforgeeks.org/find-pythagorean-triplet-in-an-unsorted-array/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_14",
+          "title": "Write a function that returns all prime numbers between two given numbers.",
+          "link": "https://www.geeksforgeeks.org/program-to-find-prime-numbers-between-given-interval/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_15",
+          "title": "Write a function that returns the sum of first n natural numbers.",
+          "link": "https://www.geeksforgeeks.org/program-find-sum-first-n-natural-numbers/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        }
+      ]
+    },
+    {
+      "id": "topic_5",
+      "title": "Arrays",
+      "problems": [
+        {
+          "id": "prob_16",
+          "title": "Build Array from Permutation",
+          "link": "https://leetcode.com/problems/build-array-from-permutation/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_17",
+          "title": "Concatenation of Array",
+          "link": "https://leetcode.com/problems/concatenation-of-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_18",
+          "title": "Running Sum of 1d Array",
+          "link": "https://leetcode.com/problems/running-sum-of-1d-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_19",
+          "title": "Richest Customer Wealth",
+          "link": "https://leetcode.com/problems/richest-customer-wealth/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_20",
+          "title": "Shuffle the Array",
+          "link": "https://leetcode.com/problems/shuffle-the-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_21",
+          "title": "Kids With the Greatest Number of Candies",
+          "link": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_22",
+          "title": "Number of Good Pairs",
+          "link": "https://leetcode.com/problems/number-of-good-pairs/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_23",
+          "title": "How Many Numbers Are Smaller Than the Current Number",
+          "link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_24",
+          "title": "Create Target Array in the Given Order",
+          "link": "https://leetcode.com/problems/create-target-array-in-the-given-order/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_25",
+          "title": "Check if the Sentence Is Pangram",
+          "link": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_26",
+          "title": "Count Items Matching a Rule",
+          "link": "https://leetcode.com/problems/count-items-matching-a-rule/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_27",
+          "title": "Find the Highest Altitude",
+          "link": "https://leetcode.com/problems/find-the-highest-altitude/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_28",
+          "title": "Flipping an Image",
+          "link": "https://leetcode.com/problems/flipping-an-image/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_29",
+          "title": "Cells with Odd Values in a Matrix",
+          "link": "https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_30",
+          "title": "Matrix Diagonal Sum",
+          "link": "https://leetcode.com/problems/matrix-diagonal-sum/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_31",
+          "title": "Find Numbers with Even Number of Digits",
+          "link": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_32",
+          "title": "Transpose Matrix",
+          "link": "https://leetcode.com/problems/transpose-matrix/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_33",
+          "title": "Add to Array-Form of Integer",
+          "link": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_34",
+          "title": "Maximum Population Year",
+          "link": "https://leetcode.com/problems/maximum-population-year/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_35",
+          "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+          "link": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_36",
+          "title": "Two Sum",
+          "link": "https://leetcode.com/problems/two-sum/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_37",
+          "title": "Find N Unique Integers Sum up to Zero",
+          "link": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_38",
+          "title": "Lucky Number In a Matrix",
+          "link": "https://leetcode.com/problems/lucky-numbers-in-a-matrix/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_39",
+          "title": "Maximum Subarray",
+          "link": "https://leetcode.com/problems/maximum-subarray/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_40",
+          "title": "Reshape the Matrix",
+          "link": "https://leetcode.com/problems/reshape-the-matrix/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_41",
+          "title": "Plus One",
+          "link": "https://leetcode.com/problems/plus-one/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_42",
+          "title": "Remove Duplicates from Sorted Array",
+          "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_43",
+          "title": "Minimum Cost to Move Chips to The Same Position",
+          "link": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_44",
+          "title": "Spiral Matrix",
+          "link": "https://leetcode.com/problems/spiral-matrix/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_45",
+          "title": "Spiral Matrix II",
+          "link": "https://leetcode.com/problems/spiral-matrix-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_46",
+          "title": "Spiral Matrix III",
+          "link": "https://leetcode.com/problems/spiral-matrix-iii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_47",
+          "title": "Set Matrix Zeroes",
+          "link": "https://leetcode.com/problems/set-matrix-zeroes/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_48",
+          "title": "Product of Array Except Self",
+          "link": "https://leetcode.com/problems/product-of-array-except-self/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_49",
+          "title": "Find First and Last Position of Element in Sorted Array",
+          "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_50",
+          "title": "Jump Game",
+          "link": "https://leetcode.com/problems/jump-game/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_51",
+          "title": "Rotate Array",
+          "link": "https://leetcode.com/problems/rotate-array/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_52",
+          "title": "Sort Colors",
+          "link": "https://leetcode.com/problems/sort-colors/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_53",
+          "title": "House Robber",
+          "link": "https://leetcode.com/problems/house-robber/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_54",
+          "title": "Max Value of Equation",
+          "link": "https://leetcode.com/problems/max-value-of-equation/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_55",
+          "title": "First Missing Positive",
+          "link": "https://leetcode.com/problems/first-missing-positive/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_56",
+          "title": "Good Array",
+          "link": "https://leetcode.com/problems/check-if-it-is-a-good-array/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        }
+      ]
+    },
+    {
+      "id": "topic_6",
+      "title": "Searching",
+      "problems": [
+        {
+          "id": "prob_57",
+          "title": "Linear Search",
+          "link": "https://youtu.be/_HRA37X8N_Q",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_58",
+          "title": "Binary Search",
+          "link": "https://youtu.be/f6UU7V3szVw",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_59",
+          "title": "Binary Search Questions",
+          "link": "https://youtu.be/W9QJ8HaRvJQ",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_60",
+          "title": "Binary Search in 2D Arrays",
+          "link": "https://youtu.be/enI_KyGLYPo",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_61",
+          "title": "Square Root",
+          "link": "https://leetcode.com/problems/sqrtx/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_62",
+          "title": "Guess Number Higher or Lower",
+          "link": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_63",
+          "title": "First Bad Version",
+          "link": "https://leetcode.com/problems/first-bad-version/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_64",
+          "title": "Two Sum II - Input array is sorted",
+          "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_65",
+          "title": "Valid Perfect Square",
+          "link": "https://leetcode.com/problems/valid-perfect-square/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_66",
+          "title": "Arranging Coins(Easy)",
+          "link": "https://leetcode.com/problems/arranging-coins/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_67",
+          "title": "Find Smallest Letter Greater Than Target",
+          "link": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_68",
+          "title": "Kth Missing Positive Number",
+          "link": "https://leetcode.com/problems/kth-missing-positive-number/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_69",
+          "title": "Search Insert Position",
+          "link": "https://leetcode.com/problems/search-insert-position/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_70",
+          "title": "Peak Index in a Mountain Array",
+          "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_71",
+          "title": "Count Negative Numbers in a Sorted Matrix",
+          "link": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_72",
+          "title": "Intersection of Two Arrays",
+          "link": "https://leetcode.com/problems/intersection-of-two-arrays/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_73",
+          "title": "Intersection of Two Arrays II",
+          "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_74",
+          "title": "Fair Candy Swap",
+          "link": "https://leetcode.com/problems/fair-candy-swap/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_75",
+          "title": "Check If N and Its Double Exist",
+          "link": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_76",
+          "title": "Special Array With X Elements Greater Than or Equal X",
+          "link": "https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_77",
+          "title": "Binary Search",
+          "link": "https://leetcode.com/problems/binary-search/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_78",
+          "title": "Find First and Last Position of Element in Sorted Array",
+          "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_79",
+          "title": "Single Element in a Sorted Array",
+          "link": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_80",
+          "title": "Search in Rotated Sorted Array",
+          "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_81",
+          "title": "Search in Rotated Sorted Array II",
+          "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_82",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_83",
+          "title": "Find Peak Element",
+          "link": "https://leetcode.com/problems/find-peak-element/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_84",
+          "title": "Find Right Interval",
+          "link": "https://leetcode.com/problems/find-right-interval/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_85",
+          "title": "Reach a Number",
+          "link": "https://leetcode.com/problems/reach-a-number/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_86",
+          "title": "Maximum Value at a Given Index in a Bounded Array",
+          "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_87",
+          "title": "Koko Eating Bananas",
+          "link": "https://leetcode.com/problems/koko-eating-bananas/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_88",
+          "title": "Minimum Absolute Sum Difference",
+          "link": "https://leetcode.com/problems/minimum-absolute-sum-difference/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_89",
+          "title": "Search a 2D Matrix",
+          "link": "https://leetcode.com/problems/search-a-2d-matrix/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_90",
+          "title": "Find a Peak Element II",
+          "link": "https://leetcode.com/problems/find-a-peak-element-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_91",
+          "title": "Frequency of the Most Frequent Element",
+          "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_92",
+          "title": "Find the Duplicate Number",
+          "link": "https://leetcode.com/problems/find-the-duplicate-number/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_93",
+          "title": "Capacity To Ship Packages Within D Days",
+          "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_94",
+          "title": "4 Sum",
+          "link": "https://leetcode.com/problems/4sum/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_95",
+          "title": "Median of Two Sorted Arrays",
+          "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_96",
+          "title": "Find Minimum in Rotated Sorted Array II",
+          "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_97",
+          "title": "Aggressive cows",
+          "link": "https://www.spoj.com/problems/AGGRCOW/",
+          "difficulty": "Hard",
+          "platform": "SPOJ"
+        },
+        {
+          "id": "prob_98",
+          "title": "Book allocation",
+          "link": "https://www.geeksforgeeks.org/allocate-minimum-number-pages/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_99",
+          "title": "Split Array Largest Sum",
+          "link": "https://leetcode.com/problems/split-array-largest-sum/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_100",
+          "title": "Find in Mountain Array",
+          "link": "https://leetcode.com/problems/find-in-mountain-array/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_101",
+          "title": "Count smaller number after Self",
+          "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_102",
+          "title": "Divide Chocolate Problem",
+          "link": "https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html",
+          "difficulty": "Hard",
+          "platform": "Other"
+        }
+      ]
+    },
+    {
+      "id": "topic_7",
+      "title": "Sorting",
+      "problems": [
+        {
+          "id": "prob_103",
+          "title": "Bubble Sort",
+          "link": "https://youtu.be/F5MZyqRp_IM",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_104",
+          "title": "Selection Sort",
+          "link": "https://youtu.be/Nd4SCCIHFWk",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_105",
+          "title": "Insertion Sort",
+          "link": "https://youtu.be/By_5-RRqVeE",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_106",
+          "title": "Cycle Sort",
+          "link": "https://www.youtube.com/watch?v=JfinxytTYFQ&list=RDCMUCBGOUQHNNtNGcGzVq5rIXjw&start_radio=1&rv=JfinxytTYFQ&t=2",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_107",
+          "title": "Merge Sort",
+          "link": "https://youtu.be/iKGAgWdgoRk",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_108",
+          "title": "Quick Sort",
+          "link": "https://youtu.be/Z8svOqamag8",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_109",
+          "title": "Merge Sorted Array",
+          "link": "https://leetcode.com/problems/merge-sorted-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_110",
+          "title": "Majority Element",
+          "link": "https://leetcode.com/problems/majority-element/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_111",
+          "title": "Contains Duplicate",
+          "link": "https://leetcode.com/problems/contains-duplicate/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_112",
+          "title": "Missing Number",
+          "link": "https://leetcode.com/problems/missing-number/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_113",
+          "title": "Intersection of Two Arrays",
+          "link": "https://leetcode.com/problems/intersection-of-two-arrays/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_114",
+          "title": "Intersection of Two Arrays II",
+          "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_115",
+          "title": "Third Maximum Number",
+          "link": "https://leetcode.com/problems/third-maximum-number/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_116",
+          "title": "Assign Cookies",
+          "link": "https://leetcode.com/problems/assign-cookies/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_117",
+          "title": "Array Partition I",
+          "link": "https://leetcode.com/problems/array-partition-i/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_118",
+          "title": "Maximum Product of Three Numbers",
+          "link": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_119",
+          "title": "Sort Array By Parity",
+          "link": "https://leetcode.com/problems/sort-array-by-parity/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_120",
+          "title": "Sort Array By Parity II",
+          "link": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_121",
+          "title": "Largest Perimeter Triangle",
+          "link": "https://leetcode.com/problems/largest-perimeter-triangle/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_122",
+          "title": "Squares of a Sorted Array",
+          "link": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_123",
+          "title": "Matrix Cells in Distance Order",
+          "link": "https://leetcode.com/problems/matrix-cells-in-distance-order/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_124",
+          "title": "Height Checker",
+          "link": "https://leetcode.com/problems/height-checker/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_125",
+          "title": "Relative Sort Array",
+          "link": "https://leetcode.com/problems/relative-sort-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_126",
+          "title": "Minimum Absolute Difference",
+          "link": "https://leetcode.com/problems/minimum-absolute-difference/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_127",
+          "title": "Rank Transform of an Array",
+          "link": "https://leetcode.com/problems/rank-transform-of-an-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_128",
+          "title": "Sort Integers by The Number of 1 Bits",
+          "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_129",
+          "title": "How Many Numbers Are Smaller Than the Current Number",
+          "link": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_130",
+          "title": "Maximum Product of Two Elements in an Array",
+          "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_131",
+          "title": "Average Salary Excluding the Minimum and Maximum Salary",
+          "link": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_132",
+          "title": "Make Two Arrays Equal by Reversing Sub-arrays",
+          "link": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_133",
+          "title": "Can Make Arithmetic Progression From Sequence",
+          "link": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_134",
+          "title": "Sort Array by Increasing Frequency",
+          "link": "https://leetcode.com/problems/sort-array-by-increasing-frequency/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_135",
+          "title": "Special Array With X Elements Greater Than or Equal X",
+          "link": "https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_136",
+          "title": "Find all numbers disappeared in an array",
+          "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_137",
+          "title": "Set Mismatch",
+          "link": "https://leetcode.com/problems/set-mismatch/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_138",
+          "title": "2Sum",
+          "link": "https://leetcode.com/problems/two-sum/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_139",
+          "title": "3Sum",
+          "link": "https://leetcode.com/problems/3sum/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_140",
+          "title": "3Sum Closest",
+          "link": "https://leetcode.com/problems/3sum-closest/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_141",
+          "title": "4Sum",
+          "link": "https://leetcode.com/problems/4sum/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_142",
+          "title": "Group Anagrams",
+          "link": "https://leetcode.com/problems/group-anagrams/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_143",
+          "title": "Merge Intervals",
+          "link": "https://leetcode.com/problems/merge-intervals/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_144",
+          "title": "Sort Colors",
+          "link": "https://leetcode.com/problems/sort-colors/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_145",
+          "title": "Insertion Sort List",
+          "link": "https://leetcode.com/problems/insertion-sort-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_146",
+          "title": "Sort List",
+          "link": "https://leetcode.com/problems/sort-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_147",
+          "title": "Largest Number",
+          "link": "https://leetcode.com/problems/largest-number/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_148",
+          "title": "Kth Largest Element in an Array",
+          "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_149",
+          "title": "Find the Duplicate Number",
+          "link": "https://leetcode.com/problems/find-the-duplicate-number/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_150",
+          "title": "Find all Duplicates in an array",
+          "link": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_151",
+          "title": "First missing Positive",
+          "link": "https://leetcode.com/problems/first-missing-positive/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        }
+      ]
+    },
+    {
+      "id": "topic_8",
+      "title": "Strings",
+      "problems": [
+        {
+          "id": "prob_152",
+          "title": "Defanging an Ip address",
+          "link": "https://leetcode.com/problems/defanging-an-ip-address/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_153",
+          "title": "Shuffle String",
+          "link": "https://leetcode.com/problems/shuffle-string/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_154",
+          "title": "Goal Parser Interpretation",
+          "link": "https://leetcode.com/problems/goal-parser-interpretation/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_155",
+          "title": "Count Items Matching a rule",
+          "link": "https://leetcode.com/problems/count-items-matching-a-rule/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_156",
+          "title": "Sorting the Sentence",
+          "link": "https://leetcode.com/problems/sorting-the-sentence/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_157",
+          "title": "Check if two strings are equivalent",
+          "link": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_158",
+          "title": "To Lower Case",
+          "link": "https://leetcode.com/problems/to-lower-case/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_159",
+          "title": "Determine if string halves are alike",
+          "link": "https://leetcode.com/problems/determine-if-string-halves-are-alike/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_160",
+          "title": "Decrypt String from Alphabet to Integer Mapping",
+          "link": "https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_161",
+          "title": "Number of Strings That Appear as Substrings in Word",
+          "link": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_162",
+          "title": "Robot Return to Origin",
+          "link": "https://leetcode.com/problems/robot-return-to-origin/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_163",
+          "title": "Reverse Words in a String III",
+          "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_164",
+          "title": "Excel Sheet Column Title",
+          "link": "https://leetcode.com/problems/excel-sheet-column-title/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_165",
+          "title": "Implement strStr()",
+          "link": "https://leetcode.com/problems/implement-strstr/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_166",
+          "title": "Long Pressed Name",
+          "link": "https://leetcode.com/problems/long-pressed-name/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_167",
+          "title": "Valid Palindrome",
+          "link": "https://leetcode.com/problems/valid-palindrome/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_168",
+          "title": "Valid Palindrome II",
+          "link": "https://leetcode.com/problems/valid-palindrome-ii/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_169",
+          "title": "Longest Common Prefix",
+          "link": "https://leetcode.com/problems/longest-common-prefix/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_170",
+          "title": "Maximum Repeating Substring",
+          "link": "https://leetcode.com/problems/maximum-repeating-substring/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_171",
+          "title": "Check if Binary String Has at Most One Segment of Ones",
+          "link": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_172",
+          "title": "Merge Strings Alternately",
+          "link": "https://leetcode.com/problems/merge-strings-alternately/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_173",
+          "title": "Reverse Prefix of Word",
+          "link": "https://leetcode.com/problems/reverse-prefix-of-word/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_174",
+          "title": "Roman to Integer",
+          "link": "https://leetcode.com/problems/roman-to-integer/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_175",
+          "title": "Valid Parentheses",
+          "link": "https://leetcode.com/problems/valid-parentheses/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_176",
+          "title": "Length of last word",
+          "link": "https://leetcode.com/problems/length-of-last-word/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_177",
+          "title": "Jump Game VII",
+          "link": "https://leetcode.com/problems/jump-game-vii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_178",
+          "title": "Split Two Strings to Make Palindrome",
+          "link": "https://leetcode.com/problems/split-two-strings-to-make-palindrome/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_179",
+          "title": "Number of Ways to Split a String",
+          "link": "https://leetcode.com/problems/number-of-ways-to-split-a-string/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_180",
+          "title": "Sentence Similarity III",
+          "link": "https://leetcode.com/problems/sentence-similarity-iii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_181",
+          "title": "Repeated String Match",
+          "link": "https://leetcode.com/problems/repeated-string-match/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_182",
+          "title": "Next Greater Element III",
+          "link": "https://leetcode.com/problems/next-greater-element-iii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_183",
+          "title": "Maximum Number of Removable Characters",
+          "link": "https://leetcode.com/problems/maximum-number-of-removable-characters/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_184",
+          "title": "Swap Adjacent in LR String",
+          "link": "https://leetcode.com/problems/swap-adjacent-in-lr-string/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_185",
+          "title": "Multiply Strings",
+          "link": "https://leetcode.com/problems/multiply-strings/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_186",
+          "title": "Basic Calculator II",
+          "link": "https://leetcode.com/problems/basic-calculator-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_187",
+          "title": "Minimum Length of String After Deleting Similar Ends",
+          "link": "https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_188",
+          "title": "Number of Substrings With Only 1s",
+          "link": "https://leetcode.com/problems/number-of-substrings-with-only-1s/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_189",
+          "title": "Count Number of Homogenous Substrings",
+          "link": "https://leetcode.com/problems/count-number-of-homogenous-substrings/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_190",
+          "title": "Get Equal Substrings Within Budget",
+          "link": "https://leetcode.com/problems/get-equal-substrings-within-budget/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_191",
+          "title": "Shifting Letters",
+          "link": "https://leetcode.com/problems/shifting-letters/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_192",
+          "title": "Minimum Time Difference",
+          "link": "https://leetcode.com/problems/minimum-time-difference/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_193",
+          "title": "Find Kth Bit in Nth Binary String",
+          "link": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_194",
+          "title": "Camelcase Matching",
+          "link": "https://leetcode.com/problems/camelcase-matching/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_195",
+          "title": "Print Words Vertically",
+          "link": "https://leetcode.com/problems/print-words-vertically/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_196",
+          "title": "Valid Number",
+          "link": "https://leetcode.com/problems/valid-number/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_197",
+          "title": "Regular Expression Matching",
+          "link": "https://leetcode.com/problems/regular-expression-matching/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_198",
+          "title": "Last Substring in Lexicographical Order",
+          "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_199",
+          "title": "Basic Calculator",
+          "link": "https://leetcode.com/problems/basic-calculator/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_200",
+          "title": "Minimum Number of Operations to Make String Sorted",
+          "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_201",
+          "title": "Check If String Is Transformable With Substring Sort Operations",
+          "link": "https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_202",
+          "title": "Orderly Queue",
+          "link": "https://leetcode.com/problems/orderly-queue/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_203",
+          "title": "Special Binary String",
+          "link": "https://leetcode.com/problems/special-binary-string/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_204",
+          "title": "Click \"Show problem tags\" and do questions that have tags for things we have learnt so far only.",
+          "link": "https://leetcode.com/tag/string/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        }
+      ]
+    },
+    {
+      "id": "topic_10",
+      "title": "Recursion",
+      "problems": [
+        {
+          "id": "prob_205",
+          "title": "Complete Recursion Course",
+          "link": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_206",
+          "title": "Sum Triangle from Array",
+          "link": "https://www.geeksforgeeks.org/sum-triangle-from-array/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_207",
+          "title": "Maximum and Minimum value in an array",
+          "link": "https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_208",
+          "title": "Binary Search using recursion",
+          "link": "https://leetcode.com/problems/binary-search/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_209",
+          "title": "First Uppercase Letter in a String",
+          "link": "https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_210",
+          "title": "Reverse String",
+          "link": "https://leetcode.com/problems/reverse-string/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_211",
+          "title": "Print 1 To N Without Loop",
+          "link": "https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_212",
+          "title": "Fibonacci Number",
+          "link": "https://leetcode.com/problems/fibonacci-number/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_213",
+          "title": "Special Fibonacci",
+          "link": "https://www.codechef.com/problems/FIBXOR01/",
+          "difficulty": "Easy",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_214",
+          "title": "Length of string using Recursion",
+          "link": "https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_215",
+          "title": "Geek-onacci Number",
+          "link": "https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_216",
+          "title": "Recursive Bubble Sort",
+          "link": "https://www.geeksforgeeks.org/recursive-bubble-sort/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_217",
+          "title": "Recursive Insertion Sort",
+          "link": "https://www.geeksforgeeks.org/recursive-insertion-sort/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_218",
+          "title": "Sum of digit of a number using Recursion",
+          "link": "https://www.geeksforgeeks.org/sum-digit-number-using-recursion/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_219",
+          "title": "Product of two numbers using Recursion",
+          "link": "https://www.geeksforgeeks.org/product-2-numbers-using-recursion/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_220",
+          "title": "Check Prime or not",
+          "link": "https://www.geeksforgeeks.org/recursive-program-prime-number/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_221",
+          "title": "Sum of Natural numbers using Recursion",
+          "link": "https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_222",
+          "title": "Power of Two",
+          "link": "https://leetcode.com/problems/power-of-two/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_223",
+          "title": "Power of Three",
+          "link": "https://leetcode.com/problems/power-of-three/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_224",
+          "title": "Power of Four",
+          "link": "https://leetcode.com/problems/power-of-four/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_225",
+          "title": "Write a recursive function that returns the factorial of a number.",
+          "link": "https://www.hackerrank.com/challenges/30-recursion/problem",
+          "difficulty": "Easy",
+          "platform": "HackerRank"
+        },
+        {
+          "id": "prob_226",
+          "title": "Write a recursive function to check whether an array is sorted or not.",
+          "link": "https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_227",
+          "title": "Number of Steps to Reduce a Number to Zero.",
+          "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_228",
+          "title": "Check for balanced paranthesis using recursion without stack.",
+          "link": "https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_229",
+          "title": "Remove consecutive duplicate characters from a string.",
+          "link": "https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_230",
+          "title": "Print all possible palindromic partitions of a string.",
+          "link": "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_231",
+          "title": "Power Set of permutations of a string in Lexicographic order.",
+          "link": "https://www.geeksforgeeks.org/powet-set-lexicographic-order/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_232",
+          "title": "Combination Sum",
+          "link": "https://leetcode.com/problems/combination-sum/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_233",
+          "title": "Word Search",
+          "link": "https://leetcode.com/problems/word-search/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_234",
+          "title": "Target sum",
+          "link": "https://leetcode.com/problems/target-sum/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_235",
+          "title": "Find Kth Bit in Nth Binary String",
+          "link": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_236",
+          "title": "K-th Symbol in Grammar",
+          "link": "https://leetcode.com/problems/k-th-symbol-in-grammar/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_237",
+          "title": "Count Good Numbers",
+          "link": "https://leetcode.com/problems/count-good-numbers/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_238",
+          "title": "N Digit numbers with digits in increasing order",
+          "link": "https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_239",
+          "title": "Pow(x, n)",
+          "link": "https://leetcode.com/problems/powx-n/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_240",
+          "title": "Minimum Non-Zero Product of the Array Elements",
+          "link": "https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_241",
+          "title": "Handshakes",
+          "link": "https://practice.geeksforgeeks.org/problems/handshakes1303/1/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_242",
+          "title": "HackerRank",
+          "link": "https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium",
+          "difficulty": "Medium",
+          "platform": "HackerRank"
+        },
+        {
+          "id": "prob_243",
+          "title": "Divisible Subset",
+          "link": "https://www.codechef.com/problems/DIVSUBS",
+          "difficulty": "Medium",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_244",
+          "title": "Perfect squares",
+          "link": "https://leetcode.com/problems/perfect-squares/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_245",
+          "title": "decode string",
+          "link": "https://leetcode.com/problems/decode-string/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_246",
+          "title": "find the winner of the circular game",
+          "link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_247",
+          "title": "Different ways to add parantheses in the expression",
+          "link": "https://leetcode.com/problems/different-ways-to-add-parentheses/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_248",
+          "title": "Letter Combinations of a Phone Number",
+          "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_249",
+          "title": "Predict the winner.",
+          "link": "https://leetcode.com/problems/predict-the-winner/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_250",
+          "title": "Gray code",
+          "link": "https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_251",
+          "title": "Combination Sum II",
+          "link": "https://leetcode.com/problems/combination-sum-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_252",
+          "title": "combination Sum III",
+          "link": "https://leetcode.com/problems/combination-sum-iii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_253",
+          "title": "Sudoku Solver",
+          "link": "https://leetcode.com/problems/sudoku-solver/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_254",
+          "title": "Letter tile possibilities",
+          "link": "https://leetcode.com/problems/letter-tile-possibilities/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_255",
+          "title": "All Paths From Source to Target",
+          "link": "https://leetcode.com/problems/all-paths-from-source-to-target/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_256",
+          "title": "Sort a stack using recursion",
+          "link": "https://www.geeksforgeeks.org/sort-a-stack-using-recursion/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_257",
+          "title": "Reverse a stack using recursion",
+          "link": "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_258",
+          "title": "Beautiful Arrangement",
+          "link": "https://leetcode.com/problems/beautiful-arrangement/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_259",
+          "title": "Lowest Common Ancestor of a Binary Tree",
+          "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_260",
+          "title": "Prime numbers after prime P with sum S",
+          "link": "https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_261",
+          "title": "Path with Maximum Gold",
+          "link": "https://leetcode.com/problems/path-with-maximum-gold/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_262",
+          "title": "Longest Possible Route in a Matrix with Hurdles",
+          "link": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_263",
+          "title": "Tug of war",
+          "link": "https://www.geeksforgeeks.org/tug-of-war/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_264",
+          "title": "Rat in a maze",
+          "link": "https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_265",
+          "title": "Reorder List",
+          "link": "https://leetcode.com/problems/reorder-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_266",
+          "title": "Parsing A Boolean Expression",
+          "link": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_267",
+          "title": "Special Binary String",
+          "link": "https://leetcode.com/problems/special-binary-string/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_268",
+          "title": "Permutation Sequence",
+          "link": "https://leetcode.com/problems/permutation-sequence/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_269",
+          "title": "Next Happy Number",
+          "link": "https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_270",
+          "title": "Basic Calculator",
+          "link": "https://leetcode.com/problems/basic-calculator/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_271",
+          "title": "Integer to English Words",
+          "link": "https://leetcode.com/problems/integer-to-english-words/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_272",
+          "title": "Maximize Number of Nice Divisors",
+          "link": "https://leetcode.com/problems/maximize-number-of-nice-divisors/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_273",
+          "title": "N Queens",
+          "link": "https://leetcode.com/problems/n-queens/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_274",
+          "title": "N Queens II",
+          "link": "https://leetcode.com/problems/n-queens-ii/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_275",
+          "title": "Word break II",
+          "link": "https://leetcode.com/problems/word-break-ii/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_276",
+          "title": "Unique paths III",
+          "link": "https://leetcode.com/problems/unique-paths-iii/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_277",
+          "title": "Find shortest safe route in a path with landmines",
+          "link": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_278",
+          "title": "Minimum steps to destination",
+          "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_279",
+          "title": "Hamiltonian Cycle",
+          "link": "https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_280",
+          "title": "M colorning problem",
+          "link": "https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_281",
+          "title": "The Knight's tour",
+          "link": "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_282",
+          "title": "Maximum number possible by doing at-most K swaps",
+          "link": "https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_283",
+          "title": "HackerRank",
+          "link": "https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard",
+          "difficulty": "Hard",
+          "platform": "HackerRank"
+        },
+        {
+          "id": "prob_284",
+          "title": "Concatenated Words",
+          "link": "https://leetcode.com/problems/concatenated-words/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        }
+      ]
+    },
+    {
+      "id": "topic_11",
+      "title": "Bitwise",
+      "problems": [
+        {
+          "id": "prob_285",
+          "title": "Add Binary",
+          "link": "https://leetcode.com/problems/add-binary/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_286",
+          "title": "Single Number",
+          "link": "https://leetcode.com/problems/single-number/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_287",
+          "title": "Reverse Bits",
+          "link": "https://leetcode.com/problems/reverse-bits/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_288",
+          "title": "Number of 1 Bits",
+          "link": "https://leetcode.com/problems/number-of-1-bits/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_289",
+          "title": "Counting Bits",
+          "link": "https://leetcode.com/problems/counting-bits/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_290",
+          "title": "Binary Watch",
+          "link": "https://leetcode.com/problems/binary-watch/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_291",
+          "title": "Hamming Distance",
+          "link": "https://leetcode.com/problems/hamming-distance/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_292",
+          "title": "Number Complement",
+          "link": "https://leetcode.com/problems/number-complement/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_293",
+          "title": "Set Mismatch",
+          "link": "https://leetcode.com/problems/set-mismatch/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_294",
+          "title": "Binary Number with Alternating Bits",
+          "link": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_295",
+          "title": "Prime Number of Set Bits in Binary Representation",
+          "link": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_296",
+          "title": "Binary Gap",
+          "link": "https://leetcode.com/problems/binary-gap/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_297",
+          "title": "Number of Steps to Reduce a Number to Zero",
+          "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_298",
+          "title": "Sort Integers by The Number of 1 Bits",
+          "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_299",
+          "title": "XOR Operation in an Array",
+          "link": "https://leetcode.com/problems/xor-operation-in-an-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_300",
+          "title": "Count the Number of Consistent Strings",
+          "link": "https://leetcode.com/problems/count-the-number-of-consistent-strings/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_301",
+          "title": "Decode XORed Array",
+          "link": "https://leetcode.com/problems/decode-xored-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_302",
+          "title": "Sum of All Subset XOR Totals",
+          "link": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_303",
+          "title": "Longest Nice Substring",
+          "link": "https://leetcode.com/problems/longest-nice-substring/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_304",
+          "title": "Subsets",
+          "link": "https://leetcode.com/problems/subsets/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_305",
+          "title": "Subsets II",
+          "link": "https://leetcode.com/problems/subsets-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_306",
+          "title": "Single Number II",
+          "link": "https://leetcode.com/problems/single-number-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_307",
+          "title": "Divide Two Integers",
+          "link": "https://leetcode.com/problems/divide-two-integers/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_308",
+          "title": "Gray Code",
+          "link": "https://leetcode.com/problems/gray-code/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_309",
+          "title": "Repeated DNA Sequences",
+          "link": "https://leetcode.com/problems/repeated-dna-sequences/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_310",
+          "title": "Minimum Number of Flips to onvert Binary Matrix to zero matrix",
+          "link": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_311",
+          "title": "Minimum cost to connect two group of points",
+          "link": "https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_312",
+          "title": "Find XOR Sum of All Pairs Bitwise AND",
+          "link": "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        }
+      ]
+    },
+    {
+      "id": "topic_12",
+      "title": "Math",
+      "problems": [
+        {
+          "id": "prob_313",
+          "title": "Roman to Integer.",
+          "link": "https://leetcode.com/problems/roman-to-integer/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_314",
+          "title": "Happy Number.",
+          "link": "https://leetcode.com/problems/happy-number/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_315",
+          "title": "Armstrong Numbers",
+          "link": "https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1/?category[]=Mathematical&category[]=Mathematical&page=2&query=category[]Mathematicalpage2category[]Mathematical",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_316",
+          "title": "Power of Four",
+          "link": "https://leetcode.com/problems/power-of-four/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_317",
+          "title": "Factorial",
+          "link": "https://practice.geeksforgeeks.org/problems/factorial5739/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_318",
+          "title": "Excel Sheet Column Title",
+          "link": "https://leetcode.com/problems/excel-sheet-column-title/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_319",
+          "title": "Maximum Product of Three Numbers",
+          "link": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_320",
+          "title": "Climbing Stairs",
+          "link": "https://leetcode.com/problems/climbing-stairs/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_321",
+          "title": "Self Dividing Numbers",
+          "link": "https://leetcode.com/problems/self-dividing-numbers/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_322",
+          "title": "Add Binary",
+          "link": "https://leetcode.com/problems/add-binary/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_323",
+          "title": "Power of Two",
+          "link": "https://leetcode.com/problems/power-of-two/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_324",
+          "title": "Integer to Roman",
+          "link": "https://leetcode.com/problems/integer-to-roman/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_325",
+          "title": "Unique Paths",
+          "link": "https://leetcode.com/problems/unique-paths/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_326",
+          "title": "Gray Code",
+          "link": "https://leetcode.com/problems/gray-code/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_327",
+          "title": "Perfect Squares",
+          "link": "https://leetcode.com/problems/perfect-squares/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_328",
+          "title": "Next Greater Element III",
+          "link": "https://leetcode.com/problems/next-greater-element-iii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_329",
+          "title": "Angle Between Hands of a Clock",
+          "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_330",
+          "title": "String to Integer (atoi)",
+          "link": "https://leetcode.com/problems/string-to-integer-atoi/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_331",
+          "title": "The k<sup>th</sup> Factor of n",
+          "link": "https://leetcode.com/problems/the-kth-factor-of-n/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_332",
+          "title": "Queries on Number of Points Inside a Circle",
+          "link": "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_333",
+          "title": "Product of Array Except Self",
+          "link": "https://leetcode.com/problems/product-of-array-except-self/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_334",
+          "title": "Multiply Strings",
+          "link": "https://leetcode.com/problems/multiply-strings/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_335",
+          "title": "Encode and Decode TinyURL",
+          "link": "https://leetcode.com/problems/encode-and-decode-tinyurl/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_336",
+          "title": "Integer Break",
+          "link": "https://leetcode.com/problems/integer-break/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_337",
+          "title": "Permutation Sequence",
+          "link": "https://leetcode.com/problems/permutation-sequence/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_338",
+          "title": "Basic Calculator",
+          "link": "https://leetcode.com/problems/basic-calculator/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_339",
+          "title": "Max Points on a Line",
+          "link": "https://leetcode.com/problems/max-points-on-a-line/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_340",
+          "title": "Number of Digit One",
+          "link": "https://leetcode.com/problems/number-of-digit-one/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        }
+      ]
+    },
+    {
+      "id": "topic_14",
+      "title": "OOP",
+      "problems": [
+        {
+          "id": "prob_341",
+          "title": "Kunal's notes",
+          "link": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/lectures/17-oop/notes",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_342",
+          "title": "Object Oriented Paradigms",
+          "link": "https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_343",
+          "title": "Constructors in Java",
+          "link": "https://www.geeksforgeeks.org/constructors-in-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_344",
+          "title": "Constructor chaining in Java",
+          "link": "https://www.geeksforgeeks.org/constructor-chaining-java-examples/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_345",
+          "title": "Inheritance in Java",
+          "link": "https://www.geeksforgeeks.org/inheritance-in-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_346",
+          "title": "Overriding in Java",
+          "link": "https://www.geeksforgeeks.org/overriding-in-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_347",
+          "title": "Abstraction in Java",
+          "link": "https://www.geeksforgeeks.org/abstraction-in-java-2/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_348",
+          "title": "Access modifiers in Java",
+          "link": "https://www.geeksforgeeks.org/access-modifiers-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_349",
+          "title": "Wrapper Classes in Java",
+          "link": "https://www.geeksforgeeks.org/wrapper-classes-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_350",
+          "title": "Need of wrapper classes in Java",
+          "link": "https://www.geeksforgeeks.org/need-of-wrapper-classes-in-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_351",
+          "title": "this keyowrd in Java",
+          "link": "https://www.javatpoint.com/this-keyword",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_352",
+          "title": "Important keyowrds in Java inheritance - extends,implements,super,instanceof",
+          "link": "https://www.tutorialspoint.com/java/java_inheritance.htm",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_353",
+          "title": "Instance initializer block",
+          "link": "https://www.javatpoint.com/instance-initializer-block",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_354",
+          "title": "Dynamic Method Dispatch or Runtime Polymorphism in Java",
+          "link": "https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_355",
+          "title": "Cohesion in Java",
+          "link": "https://www.geeksforgeeks.org/cohesion-in-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_356",
+          "title": "Coupling in Java",
+          "link": "https://www.geeksforgeeks.org/coupling-in-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_357",
+          "title": "Can we declare main() method as private or protected or with no access modifier in java?",
+          "link": "https://www.tutorialspoint.com/can-we-declare-main-method-as-private-or-protected-or-with-no-access-modifier-in-java",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_358",
+          "title": "Difference between Method Overloading and Method Overriding in Java?",
+          "link": "https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_359",
+          "title": "Can we declare interface members as private or protected in java8?",
+          "link": "https://www.tutorialspoint.com/can-we-declare-interface-members-as-private-or-protected-in-java8",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_360",
+          "title": "Can we override a private or static method in Java?",
+          "link": "https://www.tutorialspoint.com/can-we-override-a-private-or-static-method-in-java",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_361",
+          "title": "What is diamond problem in Java?",
+          "link": "https://www.javatpoint.com/what-is-diamond-problem-in-java",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_362",
+          "title": "Can we pass this keyword as argument in a method call?",
+          "link": "https://www.javatpoint.com/this-keyword#:~:text=this%3A%20to%20pass%20as%20an%20argument%20in%20the%20method",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_363",
+          "title": "Java constructor returns a value, but what?",
+          "link": "https://www.javatpoint.com/java-constructor-returns-a-value-but-what",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_364",
+          "title": "What is covariant return type?",
+          "link": "https://www.javatpoint.com/covariant-return-type",
+          "difficulty": "Uncategorized",
+          "platform": "Other"
+        },
+        {
+          "id": "prob_365",
+          "title": "Private classes and singleton classes in Java",
+          "link": "https://www.geeksforgeeks.org/private-constructors-and-singleton-classes-in-java/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_366",
+          "title": "How to prevent Singleton Pattern from Reflection, Serialization and Cloning?",
+          "link": "https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_367",
+          "title": "Double-Check Locking For Singleton Class",
+          "link": "https://www.geeksforgeeks.org/java-program-to-demonstrate-the-double-check-locking-for-singleton-class/",
+          "difficulty": "Uncategorized",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_368",
+          "title": "Inheritance I",
+          "link": "https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true",
+          "difficulty": "Uncategorized",
+          "platform": "HackerRank"
+        },
+        {
+          "id": "prob_369",
+          "title": "Inheritance II",
+          "link": "https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true",
+          "difficulty": "Uncategorized",
+          "platform": "HackerRank"
+        },
+        {
+          "id": "prob_370",
+          "title": "Java Abstract class",
+          "link": "https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true",
+          "difficulty": "Uncategorized",
+          "platform": "HackerRank"
+        },
+        {
+          "id": "prob_371",
+          "title": "Interface",
+          "link": "https://www.hackerrank.com/challenges/java-interface/problem?isFullScreen=true",
+          "difficulty": "Uncategorized",
+          "platform": "HackerRank"
+        },
+        {
+          "id": "prob_372",
+          "title": "Method Overriding I",
+          "link": "https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true",
+          "difficulty": "Uncategorized",
+          "platform": "HackerRank"
+        },
+        {
+          "id": "prob_373",
+          "title": "Method Overriding II (Use super keyword)",
+          "link": "https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem?isFullScreen=true",
+          "difficulty": "Uncategorized",
+          "platform": "HackerRank"
+        },
+        {
+          "id": "prob_374",
+          "title": "Java instanceof keyword",
+          "link": "https://www.hackerrank.com/challenges/java-instanceof-keyword/problem?isFullScreen=true",
+          "difficulty": "Uncategorized",
+          "platform": "HackerRank"
+        },
+        {
+          "id": "prob_375",
+          "title": "Java Iterator",
+          "link": "https://www.hackerrank.com/challenges/java-iterator/problem?isFullScreen=true",
+          "difficulty": "Uncategorized",
+          "platform": "HackerRank"
+        }
+      ]
+    },
+    {
+      "id": "topic_15",
+      "title": "Linked List",
+      "problems": [
+        {
+          "id": "prob_376",
+          "title": "Convert Binary Number in a Linked List to Integer",
+          "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_377",
+          "title": "Reverse Linked List",
+          "link": "https://leetcode.com/problems/reverse-linked-list/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_378",
+          "title": "Middle of the Linked List",
+          "link": "https://leetcode.com/problems/middle-of-the-linked-list/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_379",
+          "title": "Merge Two Sorted Lists",
+          "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_380",
+          "title": "Delete Node in a Linked List",
+          "link": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_381",
+          "title": "Palindrome Linked List",
+          "link": "https://leetcode.com/problems/palindrome-linked-list/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_382",
+          "title": "Intersection of Two Linked Lists",
+          "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_383",
+          "title": "Linked List Cycle",
+          "link": "https://leetcode.com/problems/linked-list-cycle/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_384",
+          "title": "Remove Duplicates from Sorted List",
+          "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_385",
+          "title": "Find All Numbers Disappeared in an Array",
+          "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_386",
+          "title": "Remove Linked List Elements",
+          "link": "https://leetcode.com/problems/remove-linked-list-elements/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_387",
+          "title": "Design Twitter",
+          "link": "https://leetcode.com/problems/design-twitter/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_388",
+          "title": "Design Linked List",
+          "link": "https://leetcode.com/problems/design-linked-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_389",
+          "title": "Reverse Linked List II",
+          "link": "https://leetcode.com/problems/reverse-linked-list-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_390",
+          "title": "Reorder List",
+          "link": "https://leetcode.com/problems/reorder-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_391",
+          "title": "Remove Nth Node From End of List",
+          "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_392",
+          "title": "Swapping Nodes in a Linked List",
+          "link": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_393",
+          "title": "Add Two Numbers",
+          "link": "https://leetcode.com/problems/add-two-numbers/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_394",
+          "title": "Add Two Numbers II",
+          "link": "https://leetcode.com/problems/add-two-numbers-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_395",
+          "title": "Linked List Cycle II",
+          "link": "https://leetcode.com/problems/linked-list-cycle-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_396",
+          "title": "Flatten a Multilevel Doubly Linked List",
+          "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_397",
+          "title": "Rotate List",
+          "link": "https://leetcode.com/problems/rotate-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_398",
+          "title": "Copy List with Random Pointer",
+          "link": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_399",
+          "title": "LRU Cache",
+          "link": "https://leetcode.com/problems/lru-cache/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_400",
+          "title": "Remove Duplicates from Sorted List II",
+          "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_401",
+          "title": "Design Browser History",
+          "link": "https://leetcode.com/problems/design-browser-history/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_402",
+          "title": "Partition list",
+          "link": "https://leetcode.com/problems/partition-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_403",
+          "title": "Find first node of loop in a linked list",
+          "link": "https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_404",
+          "title": "Swap Nodes in Pairs",
+          "link": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_405",
+          "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+          "link": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_406",
+          "title": "Insertion Sort List",
+          "link": "https://leetcode.com/problems/insertion-sort-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_407",
+          "title": "Reverse Nodes in Even Length Groups",
+          "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_408",
+          "title": "Linked List Random Node",
+          "link": "https://leetcode.com/problems/linked-list-random-node/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_409",
+          "title": "Sort List",
+          "link": "https://leetcode.com/problems/sort-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_410",
+          "title": "Merge In Between Linked Lists",
+          "link": "https://leetcode.com/problems/merge-in-between-linked-lists/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_411",
+          "title": "Design Browser History",
+          "link": "https://leetcode.com/problems/design-browser-history/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_412",
+          "title": "Delete the Middle Node of a Linked List",
+          "link": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_413",
+          "title": "Next Greater Node In Linked List",
+          "link": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_414",
+          "title": "Odd Even Linked List",
+          "link": "https://leetcode.com/problems/odd-even-linked-list/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_415",
+          "title": "Linked List Random Node",
+          "link": "https://leetcode.com/problems/linked-list-random-node/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_416",
+          "title": "Split Linked List in Parts",
+          "link": "https://leetcode.com/problems/split-linked-list-in-parts/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_417",
+          "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+          "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_418",
+          "title": "Reverse Nodes in k-Group",
+          "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_419",
+          "title": "LFU Cache",
+          "link": "https://leetcode.com/problems/lfu-cache/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_420",
+          "title": "Merge k Sorted Lists",
+          "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_421",
+          "title": "Clone a linked list with next and random pointer",
+          "link": "https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_422",
+          "title": "All O'one Data Structure",
+          "link": "https://leetcode.com/problems/all-oone-data-structure/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_423",
+          "title": "Design Skiplist",
+          "link": "https://leetcode.com/problems/design-skiplist/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        }
+      ]
+    },
+    {
+      "id": "topic_16",
+      "title": "Stack & Queue",
+      "problems": [
+        {
+          "id": "prob_424",
+          "title": "Next greater element I",
+          "link": "https://leetcode.com/problems/next-greater-element-i/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_425",
+          "title": "Valid Parentheses",
+          "link": "https://leetcode.com/problems/valid-parentheses/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_426",
+          "title": "Min Stack",
+          "link": "https://leetcode.com/problems/min-stack/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_427",
+          "title": "Remove Outermost Parentheses",
+          "link": "https://leetcode.com/problems/remove-outermost-parentheses/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_428",
+          "title": "Remove All Adjacent Duplicates In String",
+          "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_429",
+          "title": "Number of Recent Calls",
+          "link": "https://leetcode.com/problems/number-of-recent-calls/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_430",
+          "title": "Reverse First K elements of Queue",
+          "link": "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_431",
+          "title": "Delete middle element of a stack",
+          "link": "https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_432",
+          "title": "Inorder Traversal (Iterative)",
+          "link": "https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_433",
+          "title": "Preorder traversal (Iterative)",
+          "link": "https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/",
+          "difficulty": "Easy",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_434",
+          "title": "Flood fill",
+          "link": "https://leetcode.com/problems/flood-fill/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_435",
+          "title": "Implement Queue using Stacks",
+          "link": "https://leetcode.com/problems/implement-queue-using-stacks/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_436",
+          "title": "Design a Stack With Increment Operation",
+          "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_437",
+          "title": "Minimum Add to Make Parentheses Valid",
+          "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_438",
+          "title": "Decode String",
+          "link": "https://leetcode.com/problems/decode-string/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_439",
+          "title": "Asteroid Collision",
+          "link": "https://leetcode.com/problems/asteroid-collision/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_440",
+          "title": "132 Pattern",
+          "link": "https://leetcode.com/problems/132-pattern/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_441",
+          "title": "Design circular Queue",
+          "link": "https://leetcode.com/problems/design-circular-queue/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_442",
+          "title": "Find the Most Competitive Subsequence",
+          "link": "https://leetcode.com/problems/find-the-most-competitive-subsequence/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_443",
+          "title": "Design Front Middle Back Queue",
+          "link": "https://leetcode.com/problems/design-front-middle-back-queue/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_444",
+          "title": "Circular tour",
+          "link": "https://practice.geeksforgeeks.org/problems/circular-tour/1",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_445",
+          "title": "Task Scheduler",
+          "link": "https://leetcode.com/problems/task-scheduler/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_446",
+          "title": "Stock span problem",
+          "link": "https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_447",
+          "title": "Max Rectangle",
+          "link": "https://practice.geeksforgeeks.org/problems/max-rectangle/1/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_448",
+          "title": "The Celebrity Problem",
+          "link": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_449",
+          "title": "Maximum Rectangular Area in a Histogram",
+          "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/",
+          "difficulty": "Medium",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_450",
+          "title": "Binary Tree Right Side View",
+          "link": "https://leetcode.com/problems/binary-tree-right-side-view/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_451",
+          "title": "Snake and Ladders",
+          "link": "https://leetcode.com/problems/snakes-and-ladders/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_452",
+          "title": "Longest Valid Parantheses",
+          "link": "https://leetcode.com/problems/longest-valid-parentheses/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_453",
+          "title": "Sliding window maximum",
+          "link": "https://leetcode.com/problems/sliding-window-maximum/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_454",
+          "title": "Brace Expansion II",
+          "link": "https://leetcode.com/problems/brace-expansion-ii/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_455",
+          "title": "Card Rotation",
+          "link": "https://practice.geeksforgeeks.org/problems/card-rotation5834/1/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_456",
+          "title": "Minimum steps to reach target by a Knight",
+          "link": "https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/",
+          "difficulty": "Hard",
+          "platform": "GeeksForGeeks"
+        },
+        {
+          "id": "prob_457",
+          "title": "Count number of islands",
+          "link": "https://leetcode.com/problems/number-of-islands/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        }
+      ]
+    },
+    {
+      "id": "topic_17",
+      "title": "Trees",
+      "problems": [
+        {
+          "id": "prob_458",
+          "title": "Binary Tree Inorder Traversal",
+          "link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_459",
+          "title": "Same Tree",
+          "link": "https://leetcode.com/problems/same-tree/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_460",
+          "title": "Symmetric Tree",
+          "link": "https://leetcode.com/problems/symmetric-tree/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_461",
+          "title": "Maximum Depth of Binary Tree",
+          "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_462",
+          "title": "Convert Sorted Array to Binary Search Tree",
+          "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_463",
+          "title": "Balanced Binary Tree",
+          "link": "https://leetcode.com/problems/balanced-binary-tree/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_464",
+          "title": "Minimum Depth of Binary Tree",
+          "link": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_465",
+          "title": "Path Sum",
+          "link": "https://leetcode.com/problems/path-sum/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_466",
+          "title": "Binary Tree Preorder Traversal",
+          "link": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_467",
+          "title": "Binary Tree Postorder Traversal",
+          "link": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_468",
+          "title": "Invert Binary Tree",
+          "link": "https://leetcode.com/problems/invert-binary-tree/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_469",
+          "title": "Binary Tree Paths",
+          "link": "https://leetcode.com/problems/binary-tree-paths/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_470",
+          "title": "Sum of Left Leaves",
+          "link": "https://leetcode.com/problems/sum-of-left-leaves/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_471",
+          "title": "Find Mode in Binary Search Tree",
+          "link": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_472",
+          "title": "Minimum Absolute Difference in BST",
+          "link": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_473",
+          "title": "Diameter of Binary Tree",
+          "link": "https://leetcode.com/problems/diameter-of-binary-tree/",
+          "difficulty": "Easy",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_474",
+          "title": "Validate Binary Search Tree",
+          "link": "https://leetcode.com/problems/validate-binary-search-tree/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_475",
+          "title": "All Nodes Distance K in Binary Tree",
+          "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_476",
+          "title": "Validate Binary Tree Nodes",
+          "link": "https://leetcode.com/problems/validate-binary-tree-nodes/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_477",
+          "title": "Longest Univalue Path",
+          "link": "https://leetcode.com/problems/longest-univalue-path/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_478",
+          "title": "Closest Nodes Queries in a Binary Search Tree",
+          "link": "https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_479",
+          "title": "Maximum Width of Binary Tree",
+          "link": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_480",
+          "title": "Linked List in Binary Tree",
+          "link": "https://leetcode.com/problems/linked-list-in-binary-tree/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_481",
+          "title": "Operations on Tree",
+          "link": "https://leetcode.com/problems/operations-on-tree/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_482",
+          "title": "Verify Preorder Serialization of a Binary Tree",
+          "link": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_483",
+          "title": "Kth Largest Sum in a Binary Tree",
+          "link": "https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_484",
+          "title": "Count Nodes With the Highest Score",
+          "link": "https://leetcode.com/problems/count-nodes-with-the-highest-score/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_485",
+          "title": "Path Sum III",
+          "link": "https://leetcode.com/problems/path-sum-iii/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_486",
+          "title": "Maximum Product of Splitted Binary Tree",
+          "link": "https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_487",
+          "title": "Most Profitable Path in a Tree",
+          "link": "https://leetcode.com/problems/most-profitable-path-in-a-tree/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_488",
+          "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+          "link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_489",
+          "title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+          "link": "https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_490",
+          "title": "Flip Binary Tree To Match Preorder Traversal",
+          "link": "https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/",
+          "difficulty": "Medium",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_491",
+          "title": "Kth Ancestor of a Tree Node",
+          "link": "https://leetcode.com/problems/kth-ancestor-of-a-tree-node/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_492",
+          "title": "Difference Between Maximum and Minimum Price Sum",
+          "link": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_493",
+          "title": "Merge BSTs to Create Single BST",
+          "link": "https://leetcode.com/problems/merge-bsts-to-create-single-bst/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_494",
+          "title": "Frog Position After T Seconds",
+          "link": "https://leetcode.com/problems/frog-position-after-t-seconds/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_495",
+          "title": "Height of Binary Tree After Subtree Removal Queries",
+          "link": "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_496",
+          "title": "Collect Coins in a Tree",
+          "link": "https://leetcode.com/problems/collect-coins-in-a-tree/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_497",
+          "title": "Binary Tree Maximum Path Sum",
+          "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_498",
+          "title": "Tree of Coprimes",
+          "link": "https://leetcode.com/problems/tree-of-coprimes/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_499",
+          "title": "Maximum Sum BST in Binary Tree",
+          "link": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_500",
+          "title": "Minimize the Total Price of the Trips",
+          "link": "https://leetcode.com/problems/minimize-the-total-price-of-the-trips/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_501",
+          "title": "Number Of Ways To Reconstruct A Tree",
+          "link": "https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_502",
+          "title": "Smallest Missing Genetic Value in Each Subtree",
+          "link": "https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_503",
+          "title": "Vertical Order Traversal of a Binary Tree",
+          "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_504",
+          "title": "Binary Tree Cameras",
+          "link": "https://leetcode.com/problems/binary-tree-cameras/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_505",
+          "title": "Number of Ways to Reorder Array to Get Same BST",
+          "link": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_506",
+          "title": "Count Number of Possible Root Nodes",
+          "link": "https://leetcode.com/problems/count-number-of-possible-root-nodes/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_507",
+          "title": "Count Ways to Build Rooms in an Ant Colony",
+          "link": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_508",
+          "title": "Minimum Score After Removals on a Tree",
+          "link": "https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_509",
+          "title": "Create Components With Same Value",
+          "link": "https://leetcode.com/problems/create-components-with-same-value/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_510",
+          "title": "Serialize and Deserialize Binary Tree",
+          "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        },
+        {
+          "id": "prob_511",
+          "title": "Longest Path With Different Adjacent Characters",
+          "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters/",
+          "difficulty": "Hard",
+          "platform": "LeetCode"
+        }
+      ]
+    }
+  ]
+}
