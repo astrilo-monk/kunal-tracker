@@ -20,8 +20,8 @@ export default function SheetPage() {
     <div className="space-y-6 mt-12 lg:mt-0 pb-20">
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div>
-          <h1 className="text-3xl font-bold tracking-tight">DSA Sheet</h1>
-          <p className="text-muted-foreground mt-1">Master Data Structures and Algorithms topic by topic.</p>
+          <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-gradient">DSA Sheet</h1>
+          <p className="text-muted-foreground mt-2 text-sm md:text-base">Master Data Structures and Algorithms topic by topic.</p>
         </div>
         
         <div className="relative w-full md:w-72">
@@ -29,7 +29,7 @@ export default function SheetPage() {
           <input 
             type="text" 
             placeholder="Search problems..."
-            className="w-full pl-9 pr-4 py-2 bg-card border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/50 text-sm"
+            className="w-full pl-10 pr-4 py-2.5 glass rounded-xl focus:outline-none focus:ring-2 focus:ring-primary/50 text-sm shadow-sm transition-all duration-300"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />

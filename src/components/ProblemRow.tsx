@@ -43,18 +43,19 @@ export function ProblemRow({ problem }: ProblemRowProps) {
   };
 
   return (
-    <div className="group bg-card border border-border rounded-lg overflow-hidden hover:border-primary/30 transition-colors">
-      <div className="p-3 sm:p-4 flex items-center justify-between gap-4">
+    <div className="group glass rounded-lg overflow-hidden transition-all duration-300 hover:shadow-md hover:border-primary/40 relative">
+      <div className="absolute inset-0 bg-gradient-to-r from-transparent via-primary/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none" />
+      <div className="p-3 sm:p-4 flex items-center justify-between gap-4 relative z-10">
         
         {/* Left Side: Status & Title */}
         <div className="flex items-center space-x-3 flex-1 min-w-0">
           <button 
             onClick={handleStatusChange}
             className={cn(
-              "flex-shrink-0 w-6 h-6 rounded border flex items-center justify-center transition-all",
-              state.status === 'solved' ? "bg-success border-success text-white" : 
-              state.status === 'revising' ? "bg-warning border-warning text-white" : 
-              "border-muted-foreground/30 hover:border-primary text-transparent"
+              "flex-shrink-0 w-7 h-7 rounded-md border flex items-center justify-center transition-all duration-300",
+              state.status === 'solved' ? "bg-gradient-to-br from-success to-emerald-600 border-transparent text-white shadow-[0_0_10px_rgba(16,185,129,0.3)]" : 
+              state.status === 'revising' ? "bg-gradient-to-br from-warning to-amber-600 border-transparent text-white shadow-[0_0_10px_rgba(245,158,11,0.3)]" : 
+              "border-muted-foreground/30 hover:border-primary/50 text-transparent hover:bg-primary/5"
             )}
             title={`Status: ${state.status}`}
           >
@@ -67,19 +68,19 @@ export function ProblemRow({ problem }: ProblemRowProps) {
               target="_blank" 
               rel="noopener noreferrer"
               className={cn(
-                "font-medium text-sm sm:text-base truncate hover:text-primary hover:underline flex items-center gap-1",
+                "font-medium text-sm sm:text-base truncate hover:text-primary transition-colors flex items-center gap-1",
                 state.status === 'solved' && "text-muted-foreground line-through opacity-70"
               )}
             >
-              {problem.title}
+              <span className="hover:underline">{problem.title}</span>
               <ExternalLink className="w-3 h-3 opacity-50" />
             </a>
             <div className="flex items-center gap-2">
-              <span className={cn("text-[10px] sm:text-xs px-2 py-0.5 rounded-full border", getDifficultyColor(problem.difficulty))}>
+              <span className={cn("text-[10px] sm:text-xs px-2 py-0.5 rounded-full border shadow-sm", getDifficultyColor(problem.difficulty))}>
                 {problem.difficulty}
               </span>
               {problem.platform !== 'Other' && (
-                <span className="text-[10px] sm:text-xs px-2 py-0.5 rounded-full border border-border bg-muted/50 text-muted-foreground">
+                <span className="text-[10px] sm:text-xs px-2 py-0.5 rounded-full border border-border bg-black/5 dark:bg-white/5 text-muted-foreground shadow-sm">
                   {problem.platform}
                 </span>
               )}
@@ -91,21 +92,21 @@ export function ProblemRow({ problem }: ProblemRowProps) {
         <div className="flex items-center space-x-1 sm:space-x-2 flex-shrink-0">
           <button 
             onClick={() => setShowNotes(!showNotes)}
-            className={cn("p-1.5 sm:p-2 rounded-md transition-colors", state.notes ? "text-primary bg-primary/10" : "text-muted-foreground hover:bg-muted")}
+            className={cn("p-2 rounded-md transition-all duration-200", state.notes ? "text-primary bg-primary/10 shadow-inner" : "text-muted-foreground hover:bg-black/5 dark:hover:bg-white/5")}
             title="Notes"
           >
             <MessageSquare className="w-4 h-4" />
           </button>
           <button 
             onClick={() => toggleImportant(problem.id)}
-            className={cn("p-1.5 sm:p-2 rounded-md transition-colors", state.important ? "text-orange-500 bg-orange-500/10" : "text-muted-foreground hover:bg-muted")}
+            className={cn("p-2 rounded-md transition-all duration-200", state.important ? "text-orange-500 bg-orange-500/10 shadow-inner" : "text-muted-foreground hover:bg-black/5 dark:hover:bg-white/5")}
             title="Mark Important"
           >
             <Flame className="w-4 h-4" />
           </button>
           <button 
             onClick={() => toggleBookmark(problem.id)}
-            className={cn("p-1.5 sm:p-2 rounded-md transition-colors", state.bookmarked ? "text-primary bg-primary/10" : "text-muted-foreground hover:bg-muted")}
+            className={cn("p-2 rounded-md transition-all duration-200", state.bookmarked ? "text-primary bg-primary/10 shadow-inner" : "text-muted-foreground hover:bg-black/5 dark:hover:bg-white/5")}
             title="Bookmark"
           >
             <Bookmark className={cn("w-4 h-4", state.bookmarked && "fill-current")} />

@@ -1,44 +1,46 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f8fafc;
-  --foreground: #0f172a;
+  --background: #fdfdfd;
+  --foreground: #09090b;
   
-  --primary: #3b82f6;
+  --primary: #4f46e5;
   --primary-foreground: #ffffff;
   
   --card: #ffffff;
-  --card-foreground: #0f172a;
+  --card-foreground: #09090b;
   
-  --border: #e2e8f0;
-  --muted: #f1f5f9;
-  --muted-foreground: #64748b;
+  --border: #e4e4e7;
+  --muted: #f4f4f5;
+  --muted-foreground: #71717a;
   
-  --accent: #eff6ff;
-  --accent-foreground: #1d4ed8;
+  --accent: #f4f4f5;
+  --accent-foreground: #18181b;
   
-  --success: #22c55e;
+  --success: #10b981;
   --warning: #f59e0b;
   --danger: #ef4444;
+  
+  --radius: 0.75rem;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #020617;
-    --foreground: #f8fafc;
+    --background: #09090b;
+    --foreground: #fafafa;
     
-    --primary: #3b82f6;
+    --primary: #6366f1;
     --primary-foreground: #ffffff;
     
-    --card: #0f172a;
-    --card-foreground: #f8fafc;
+    --card: rgba(24, 24, 27, 0.6);
+    --card-foreground: #fafafa;
     
-    --border: #1e293b;
-    --muted: #1e293b;
-    --muted-foreground: #94a3b8;
+    --border: #27272a;
+    --muted: #27272a;
+    --muted-foreground: #a1a1aa;
     
-    --accent: #1e3a8a;
-    --accent-foreground: #eff6ff;
+    --accent: rgba(39, 39, 42, 0.8);
+    --accent-foreground: #fafafa;
   }
 }
 
@@ -62,16 +64,43 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 * {
   border-color: var(--border);
 }
 
-/* Glassmorphism utility */
+/* Premium utility classes */
 .glass {
-  background: rgba(var(--card), 0.7);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(var(--border), 0.5);
+  background: var(--card);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.05);
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #6366f1, #a855f7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.bg-gradient-premium {
+  background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+}
+
+.animate-gradient {
+  background-size: 300%;
+  -webkit-animation: animatedgradient 6s ease infinite alternate;
+  animation: animatedgradient 6s ease infinite alternate;
+}
+
+@keyframes animatedgradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }

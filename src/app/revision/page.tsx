@@ -23,18 +23,18 @@ export default function RevisionPage() {
   return (
     <div className="space-y-8 mt-12 lg:mt-0 pb-20">
       <div>
-        <h1 className="text-3xl font-bold tracking-tight">Revision Queue</h1>
-        <p className="text-muted-foreground mt-1">Problems you've marked for revision.</p>
+        <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-gradient">Revision Queue</h1>
+        <p className="text-muted-foreground mt-2 text-sm md:text-base">Problems you've marked for revision.</p>
       </div>
 
-      <div className="bg-warning/10 border border-warning/20 p-4 rounded-lg text-warning-foreground text-sm flex items-start space-x-3">
+      <div className="glass p-4 rounded-lg text-warning-foreground text-sm flex items-start space-x-3">
         <RotateCcw className="w-5 h-5 text-warning flex-shrink-0" />
         <p>Spaced repetition is key to mastering DSA. Make sure to solve these problems entirely on your own without looking at the solution before marking them as solved.</p>
       </div>
 
       <div>
         {revisionProblems.length === 0 ? (
-          <div className="p-12 text-center bg-card border border-border rounded-xl">
+          <div className="p-12 text-center glass rounded-xl">
             <p className="text-muted-foreground">Your revision queue is empty. Great job!</p>
           </div>
         ) : (
